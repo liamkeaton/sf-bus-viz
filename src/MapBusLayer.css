@@ -1,0 +1,9 @@
+.route-hidden {
+  display: none;
+}
+.bus-stopped {
+  fill: red;
+}
+.bus-moving {
+  fill: green;
+}

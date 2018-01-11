@@ -1,0 +1,18 @@
+path {
+  stroke-width: 1;
+  fill: transparent;
+  stroke: black;
+}
+path.neighborhoods {
+  stroke: #efefef;
+  fill: #efefef;
+}
+path.freeways {
+  stroke: #666;
+}
+path.arteries {
+  stroke: #999;
+}
+path.streets {
+  stroke: #ccc;
+}
